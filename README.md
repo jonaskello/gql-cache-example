@@ -1,6 +1,6 @@
 # gql-cache-example
 
-Small example that demonstrates a full-stack solution with [graphql-cache](https://www.npmjs.com/package/gql-cache).
+Full-stack example using the [graphql-cache](https://www.npmjs.com/package/gql-cache) package
 
 # How to run
 
